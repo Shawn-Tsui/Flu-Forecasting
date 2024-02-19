@@ -1,0 +1,2 @@
+,Model,lr,batch_size,seq_length,week_range,hidden_layer_size,num_layers,lossfunc,mse_validation,mse_validation_1w,mse_validation_2w,mse_validation_3w,mse_validation_4w,Target
+0,LSTM,0.0001,2,12,64,256,1,SmoothL1Loss(),0.40454597877812837,0.18759244293428476,0.3857517401567712,0.5340116907757836,0.6248162215554857,rate
